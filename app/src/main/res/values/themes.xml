@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Minimal bootstrap window theme used before Compose content attaches.
+         Actual Light / Dark / AMOLED theming lives in ui/theme (Compose). -->
+    <style name="Theme.ToshionMotion" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
