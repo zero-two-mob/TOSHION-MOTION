@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.editor.EditorViewModel

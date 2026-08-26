@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Three offset "layer" bars — nods to the layer-based timeline.
+         Placeholder mark; swap for real branding whenever you like. -->
+    <path
+        android:fillColor="#B388FF"
+        android:pathData="M30,36 L90,36 L90,50 L30,50 Z" />
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M24,52 L84,52 L84,66 L24,66 Z" />
+    <path
+        android:fillColor="#18FFFF"
+        android:pathData="M18,68 L78,68 L78,82 L18,82 Z"
+        android:fillAlpha="0.9" />
+</vector>

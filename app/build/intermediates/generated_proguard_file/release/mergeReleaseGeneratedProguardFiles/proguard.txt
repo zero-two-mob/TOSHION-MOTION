@@ -1,0 +1,10 @@
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.create.CreateProjectViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.create.CreateProjectViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.editor.EditorViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.editor.EditorViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.projects.ProjectsViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.projects.ProjectsViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.settings.DeveloperOptionsViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.settings.DeveloperOptionsViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.toshion.motion.presentation.settings.SettingsViewModel
